@@ -4,12 +4,12 @@
 void main()
 {
   int a,b,c;
-  //Add calculator fucnction in this code
+  //Add calculator function in this code
   
 }
 
 int add(int p,int q)
 {
-  return p+q;
+
 }
 
