@@ -7,3 +7,9 @@ void main()
   //Add calculator fucnction in this code
   
 }
+
+int add(int p,int q)
+{
+  return p+q;
+}
+
